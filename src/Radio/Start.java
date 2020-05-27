@@ -66,10 +66,6 @@ public class Start extends JFrame {
         check_connection = new JLabel("Состояние");
         l1 = new JLabel("<html>"
                 + "<div style='text-align: center;'style=color:#FFFFFF>"
-                + "<strong>Курсовой проект на тему:</strong>"
-                + "<br/>"
-                + "<br/>Разработка клиент-серверного приложения "
-                + "<br/>для воспроизведения и передачи голоса."
                 + "<br/>"
                 + "<br/>"
                 + "<br/>"
@@ -79,9 +75,6 @@ public class Start extends JFrame {
                 + "<br/>"
                 + "<br/>"
                 + "<br/>"
-                + "<br/><div style='text-align: right;'>Выполнил:"
-                + "<br/>Студент группы 3ИТ-5"
-                + "<br/>Лушаков Иван Витальевич</div>"
                 + "</div>"
                 + "</html>");
 

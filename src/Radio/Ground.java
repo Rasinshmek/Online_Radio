@@ -20,7 +20,7 @@ public class Ground {
         Start f = new Start("Стартовое окно"); //Название формы        
         f.setVisible(true);//Видимость формы
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);// Действие при на жатии на крестик (закрытие программы)
-        f.setSize(480, 720);//Размеры окна
+        f.setSize(500, 600);//Размеры окна
         f.setResizable(false);//Масштабируемость
         f.setLocationRelativeTo(null);//Установка окнна пе центру 
 
