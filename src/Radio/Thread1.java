@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psp_14;
+package Radio;
 import java.io.BufferedInputStream;
 import java.net.URL;
 import java.util.logging.Level;
