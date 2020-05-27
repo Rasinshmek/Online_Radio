@@ -11,7 +11,7 @@ import javax.swing.JFrame;
  *
  * @author alpha
  */
-public class PSP_14 {
+public class Ground {
 
     /**
      * @param args the command line arguments
